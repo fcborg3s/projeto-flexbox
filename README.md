@@ -2,4 +2,4 @@
 
 
 
-## Neste projeto uso todos os conceitos do flexbox.
+## Projeto usando os conceitos do flexbox.
